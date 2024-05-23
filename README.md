@@ -305,6 +305,7 @@ When you want to contribute code, please follow these steps:
 2. **Apply the improvements:** Want to optimize something or add support for additional developer tooling? Add your changes!
 3. **Create a Pull Request:** Once you're ready and have tested your added code, submit a PR to the repo and we'll review as soon as possible.
 4. dane
+5. .. n
 
 ## 💡 Questions or Suggestions?
 
