@@ -307,6 +307,7 @@ When you want to contribute code, please follow these steps:
 4. dane
 5. .. n
 6. .
+7. dane
 
 ## 💡 Questions or Suggestions?
 
